@@ -1,0 +1,5 @@
+"Você aceitaria esses termos se soubesse que suas informações seriam compartilhadas com terceiros?"
+
+"Este site informa adequadamente como seus dados serão usados?"
+
+"Você se sentiria confortável se o site tivesse acesso ao seu histórico de navegação?"
