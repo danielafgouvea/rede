@@ -1,0 +1,6 @@
+1. Complete com o princípio correto (Confidencialidade, Integridade ou Disponibilidade):
+ a) O sistema do hospital precisa estar online 24h por dia para atender os pacientes.
+ b) Um aluno tenta acessar a senha do professor, mas não consegue.
+ c) Um arquivo de notas não pode ser alterado sem permissão do coordenador.
+
+2. Cite uma boa prática de segurança que você pode aplicar no seu dia a dia.
