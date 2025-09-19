@@ -1,0 +1,29 @@
+ESCOLA ESTADUAL JOÃO RAMALHO
+TRABALHO - 3º BIMESTRE
+DISCIPLINA: Redes de Computadores e Segurança da Informação na Nuvem
+
+Nome:_______________________________________________________  série: _______ Data: _______________
+
+1) Segurança da informação significa proteger seus dados e sistemas de informação de acessos e uso não autorizados, divulgação, modificação, leitura, gravação, inspeção e destruição. O conceito de segurança da informação está ligado à confidencialidade, à integridade e à disponibilidade da informação. O conceito de segurança de processamento está ligado à disponibilidade e à operação da infraestrutura computacional. Esses conceitos são complementares e asseguram a proteção e a disponibilidade das informações das organizações. O impacto da perda e/ou violação de informações para empresa é enorme e pode, em alguns casos, levá-la à falência. Com relação aos itens que devem ser observados na segurança física e ambiental das informações, classifique V para as sentenças verdadeiras e F para as falsas:
+(  ) Para-raios e iluminação de emergência devem ser observados no projeto de uma instalação elétrica.
+( ) Fontes de energias alternativas, como no-breaks e geradores, são importantes para empresas que possuem aplicações on-line.
+( ) Aquecimento, ventilação e ar-condicionado e detecção de fogo são itens relevantes para segurança ambiental.
+( ) A escolha da localização não é uma medida que precise de atenção, uma vez respeitado o acesso devido e restrito à informação.
+Assinale a alternativa que apresenta a sequência CORRETA:
+FONTE: http://efagundes.com/artigos/seguranca-da-informacao/. Acesso em: 30 out. 2018.
+
+
+V - F - V - F.
+V - V - V - F.
+F - F - F - V.
+F - V - F - V.
+
+
+2) A Segurança da informação é composta por três segmentos: pessoas, processos e tecnologias. As pessoas são responsáveis pela realização das atividades de segurança que estão definidas em seus processos com diretrizes para a realização das atividades executadas por pessoas através de ferramentas. Com relação a estes três segmentos, pessoas, processos e tecnologias, analise as sentenças a seguir:
+I- Pessoas, processos e tecnologias trabalham de forma integrada para a execução e entrega das estratégias de gestão de segurança da informação nas organizações.
+II- O elo mais forte para a segurança da informação são os processos e as tecnologias que definem a forma como são executadas as atividades de segurança física de uma organização onde as habilidades, atitudes e conhecimentos das pessoas são considerados.
+III- O processo define as ações das pessoas para garantir a segurança física de uma organização num ciclo contínuo de análise do problema, síntese de uma solução e avaliação da solução da segurança de informação através das tecnologias e suas ferramentas utilizadas para alcançar os melhores resultados para a organização.
+IV- A eficiência de um processo de segurança de informação independe da tecnologia utilizada e das pessoas habilitadas para executar as atividades voltadas à segurança física de uma organização.
+Assinale a alternativa CORRETA:
+Somente a sentença III está correta.             C) As sentenças II e III estão corretas.
+       B) As sentenças I e III estão corretas.                 D) As sentenças III e IV estão corretas.
