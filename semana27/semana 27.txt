@@ -1,0 +1,11 @@
+1- Leia o texto abaixo:
+
+“Para proteger uma empresa contra ataques cibernéticos, é importante usar medidas como senhas fortes, antivírus atualizado e backups regulares. Caso um ataque aconteça, a equipe deve identificar o problema, isolar o sistema afetado, comunicar os responsáveis e tomar ações para corrigir a falha.”
+
+2- Responda às perguntas:
+
+a) Cite três medidas de segurança mencionadas no texto.
+
+b) Quais são os passos indicados para responder a um incidente?
+
+c) Por que é importante ter um plano de resposta a incidentes?
