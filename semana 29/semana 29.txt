@@ -1,0 +1,9 @@
+Responda:
+
+1) Explique a importância do programa de governança e compliance na implementação da LGPD dentro das organizações.
+
+2) Descreva como o gerenciamento de riscos e as auditorias internas contribuem para a conformidade com a LGPD.
+
+3) Analise o papel dos colaboradores no cumprimento das políticas de proteção de dados e como o treinamento influencia esse processo.
+
+4) Discuta de que forma a transparência no tratamento de dados pessoais fortalece a confiança entre a empresa e os titulares dos dados.
