@@ -1,0 +1,116 @@
+PARTE 1 — Texto
+Leia com atenção o resumo abaixo.
+1. O que é Segurança da Informação?
+É o conjunto de práticas que protegem dados e sistemas contra acessos indevidos, ataques, perdas, vazamentos e uso incorreto de informações.
+Os pilares básicos são:
+Confidencialidade: somente pessoas autorizadas podem acessar.
+
+
+Integridade: a informação não pode ser alterada sem permissão.
+
+
+Disponibilidade: a informação precisa estar acessível quando necessária.
+
+
+
+2. LGPD (Lei Geral de Proteção de Dados)
+A LGPD é a lei brasileira que protege os dados pessoais.
+ Ela garante que nomes, documentos, fotos, mensagens, localização e outros dados só podem ser usados com autorização e responsabilidade.
+Elementos importantes:
+Transparência
+
+
+Consentimento
+
+
+Segurança
+
+
+Gerenciamento de riscos
+
+
+Auditorias internas
+
+
+
+3. Ameaças Digitais Comuns
+Phishing: tentativas de enganar o usuário para roubar dados.
+
+
+Malwares: programas maliciosos como vírus e ransomware.
+
+
+Engenharia social: manipulação para obter informações confidenciais.
+
+
+
+4. Boas Práticas de Segurança
+Usar senhas fortes
+
+
+Não clicar em links suspeitos
+
+
+Atualizar sistemas
+
+
+Evitar redes Wi-Fi desconhecidas
+
+
+Ativar autenticação de dois fatores (2FA)
+
+
+
+PARTE 2 — Questões
+1 — Conceito Base
+Explique, com suas próprias palavras, o que é Segurança da Informação e cite um exemplo real do dia a dia onde ela é aplicada.
+
+2 — Pilares da Segurança
+Escolha dois pilares (confidencialidade, integridade, disponibilidade) e descreva como eles se aplicam ao uso do celular ou do computador na escola.
+
+3 — LGPD
+Por que a LGPD é importante para proteger os dados das pessoas?
+ Dê um exemplo de situação escolar em que ela se aplica.
+
+4 — Ameaças Digitais
+Explique o que é phishing e descreva um exemplo de mensagem falsa que poderia enganar um usuário desatento.
+
+5 — Boas Práticas
+Liste três atitudes simples que qualquer estudante pode tomar para se proteger online e explique por que cada uma é importante.
+
+PARTE 3 — Atividade Lúdica (Criativa)
+Imagine que seus dados pessoais são um tesouro guardado em um castelo.
+Complete as comparações:
+A senha forte é como __________________________
+
+
+A LGPD é como __________________________
+
+
+O phishing seria __________________________
+
+
+A autenticação de dois fatores seria __________________________
+
+
+Use metáforas divertidas (ex.: soldados, chaves, armadilhas, portões etc.).
+
+PARTE 4 — Atividade Prática (Sem Computador)
+Crie um pequeno cartaz no seu caderno com o título:
+"Como me proteger na Internet"
+O cartaz deve conter:
+Um slogan curto
+
+
+3 boas práticas de segurança
+
+
+1 ameaça digital explicada de forma simples
+
+
+Uma ilustração sua (básica) sobre proteção digital
+
+
+
+PARTE 5 — Desafio Extra 
+Explique como auditorias internas e o gerenciamento de riscos ajudam uma escola ou empresa a evitar vazamentos de dados.
