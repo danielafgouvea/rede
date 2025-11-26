@@ -1,0 +1,5 @@
+1) ​O desenvolvimento de um software (aplicativo ou jogo) segue geralmente um ciclo de vida. Descreva as três primeiras fases essenciais desse ciclo (que são: Requisitos, Análise e Design). Em seguida, explique de forma simples a principal característica do Modelo Cascata (Waterfall) e por que ele pode ser considerado menos flexível do que as abordagens modernas.
+
+2) ​As Metodologias Ágeis surgiram como uma resposta ao Modelo Cascata. Qual é o principal valor por trás do Manifesto Ágil que prioriza a "adaptação a mudanças" em vez de seguir um plano rígido? Explique como a entrega de valor em pequenos ciclos de tempo (como em sprints do Scrum) é benéfica para o cliente e para a equipe de desenvolvimento.
+
+​3) ​Em um projeto de desenvolvimento que usa metodologia ágil, a colaboração é fundamental. Cite e descreva brevemente dois papéis importantes na equipe (como o Desenvolvedor ou o Gerente de Projeto). Além disso, mencione uma ferramenta de comunicação ou colaboração (como Trello ou Slack) e explique como ela ajuda a manter a equipe alinhada e o processo de desenvolvimento transparente.
