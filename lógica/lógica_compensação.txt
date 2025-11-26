@@ -1,0 +1,5 @@
+​1) Em lógica de programação, qual é a definição correta de uma matriz, quais são os tipos mais comuns, como seus elementos são acessados e representados em linguagens como Python, e quais operações básicas podem ser realizadas com elas?
+
+2) ​O que é um algoritmo e qual é a sua importância na programação? Para exemplificar, escreva um pequeno algoritmo em pseudocódigo (passos simples e legíveis em português, como uma receita) que descreva como calcular a média de 4 notas de um aluno e, em seguida, determinar se ele foi aprovado (média maior ou igual a 7) ou reprovado.
+
+3) ​Em programação, o que é uma variável e por que é essencial definir um tipo de dado (como inteiro, real ou texto) para ela? Dê um exemplo de quando usaríamos uma variável do tipo inteiro e outra do tipo texto (string). Além disso, explique brevemente a utilidade de uma lista (ou array simples) como uma estrutura de dados básica.
